@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/cdw0116-myjupyter-hzt6c3h6/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "oBWWsChGTfGuWGDo5CXEGQ",
+  "url": "http://0.0.0.0:8888/user/cdw0116-myjupyter-hzt6c3h6/"
+}
